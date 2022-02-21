@@ -1,0 +1,6 @@
+/src/main/java/META-INF/
+/build/
+/libs/
+.project
+.classpath
+.settings/
